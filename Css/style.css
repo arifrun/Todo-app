@@ -1,0 +1,71 @@
+
+   .main{ 
+      width: 335px; 
+      padding: 30px; 
+      background-color: #00A9FF; 
+      margin: 100px auto; 
+      border-radius: 15px; 
+   } 
+   .alert{ 
+      font-size: 24px;
+      color: #fff; 
+      text-align: center; 
+     
+   }
+   .input_box{ 
+      display: flex; 
+      gap: 10px;  
+      margin-bottom: 20px;
+   } 
+   .input_value{ 
+      width: 100%; 
+      padding: 10px; 
+      border-radius: 8px; 
+      text-align: center;  
+      color: #000; 
+      border: #fff; 
+      outline: none;
+   } 
+   .add{ 
+     padding: 8px 18px; 
+     background-color: #161A30;  
+     border-radius: 8px;
+     border: none; 
+     outline: none; 
+     color: #fff; 
+     cursor: pointer;
+   }  
+   .list{ 
+      display: flex; 
+      gap: 8px;
+      padding: 5px; 
+      background-color: #fff; 
+      border-radius: 8px; 
+      margin-bottom: 10px;
+   }  
+   .item{ 
+      /* font-size: 16px; */
+      border: none;  
+      outline: none; 
+      text-align: center;
+   }   
+   /* .item{ 
+      text-decoration: line-through;
+   } */
+   .edit{ 
+      padding: 5px 12px;
+      background-color: gold; 
+      border-radius: 8px;
+      border: none; 
+      outline: none; 
+      cursor: pointer; 
+   } 
+   .delete{ 
+      padding: 5px 12px; 
+      background-color: red;  
+      border-radius: 8px;
+      border: none; 
+      outline: none;  
+      cursor: pointer; 
+      color: #fff;
+   }
